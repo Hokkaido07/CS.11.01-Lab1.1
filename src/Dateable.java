@@ -1,5 +1,12 @@
 import java.util.Scanner;
 
+/*
+This code provides a user with the minimum age a person should be to be considered "dateable" according to the folks tale
+Author: Alexis C.
+Date: 09-08-2023
+Credit: Thanks to Jim Cohoon at The University of Virginia
+ */
+
 public class Dateable {
 
     public static void main(String[] args) {

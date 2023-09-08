@@ -1,4 +1,10 @@
 import java.util.Scanner;
+/*
+This code provides a user with the number of pages they should read before giving up a book according to the folks tale
+Author: Alexis C.
+Date: 09-08-2023
+Credit: Thanks to Jim Cohoon at The University of Virginia
+ */
 
 public class Pages {
 
